@@ -1,0 +1,12 @@
+Script started on 2017年05月22日 (週一) 23時09分09秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m make
+make: `lab5' is up to date.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m ./lab5
+84596213
+000000000000000000000084596213+000000000000000000000028825252 = 000000000000000000000113421465
+000000000314159265358894727633
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m 
+Script done on 2017年05月22日 (週一) 23時09分59秒
+
+
+I use makefile to compile HugeInt.h,HugeInt.cpp and lab5.cpp.All of details are in the headfile and cpp program.
